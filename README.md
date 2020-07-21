@@ -1,1 +1,1 @@
-# Blog app using DRF as backend and React as frontend
+### Blog app using DRF as backend and React as frontend
